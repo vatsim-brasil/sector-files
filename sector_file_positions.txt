@@ -269,7 +269,7 @@ Sao Paulo Helicopter Approach:Sao Paulo Helicopter Approach:127.350:XPH:H:SBXP:A
 Sao Paulo Visual Approach:Sao Paulo Visual Approach:129.500:XPV:V:SBXP:APP:::0201:0237:
 Sao Paulo Congonhas ATIS:Sao Paulo Congonhas ATIS:127.650:ASP::SBSP:ATIS:::::
 Sao Paulo Congonhas Clearence Delivery:Sao Paulo Congonhas Clearance Delivery:120.600:CSP::SBSP:DEL:::3701:3777:
-Sao Paulo Congonhas Ground:Sao Paulo Congonhas Ground:121.900:GSP::SBSP:GND:::3701:3777:
+Sao Paulo Congonhas Ground:Sao Paulo Congonhas Ground:121.950:GSP::SBSP:GND:::3701:3777:
 Sao Paulo Congonhas Tower:Sao Paulo Congonhas Tower:127.150:TSP::SBSP:TWR:::3701:3777:
 Taubate Military Ground:Taubate Military Ground:121.700:GTA:M:SBTA:GND:::0101:0117:
 Taubate Military Tower:Taubate Military Tower:119.900:TTA:M:SBTA:TWR:::0120:0137:
