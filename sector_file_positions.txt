@@ -349,6 +349,8 @@ Montevideo Oceanic:Montevideo Oceanic:126.300:MO::SUEO:FSS:::::
 Paramaribo Center:Paramaribo:123.900:PR::SMPM:CTR:::::
 Resistencia Center:Resistencia Centro:124.300:REC::SARR:CTR:::::
 Rochambeau Center:Rochambeau Center:126.900:RC::SOOO:CTR:::::
+;SAM
+South America Control East:South America Control East:134.150:SAE::SAM_E_CTR:FSS:::6300:6577:S014.44.47.455:W049.26.00.706:S019.27.09.161:W045.40.28.259
 ;RESERVADAS
 Reservada 01:Reservada 01:135.000::1:ICAO:POS:::::
 Reservada 02:Reservada 02:135.100::2:ICAO:POS:::::
