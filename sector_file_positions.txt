@@ -8,7 +8,7 @@ Ascension Island Military Radio:WIDEAWAKE Ascension Island Military Radio:126.20
 Almeirim Radio:Monte Dourado Radio:125.700:TMD:R:SBMD:TWR:::0601:0677:
 Alta Floresta Radio:Floresta Radio:126.600:TAT:R:SBAT:TWR:::0601:0677:
 Altamira Radio:Altamira Radio:125.850:THT:R:SBHT:TWR:::0601:0677:
-Amazonica Approach:Amazonica Approach:119.250:WA::SBWA:APP:::6101:6140:
+Amazonica Approach:Amazonica Approach:119.100:WA::SBWA:APP:::6101:6140:
 Amazonic Center:Amazonic Center:133.700:AZ::SBAZ:CTR:::6001:6077:S005.02.40.748:W067.07.05.094:S000.31.44.491:W058.18.02.474:S002.30.15.433:W047.35.31.980:S010.58.54.634:W057.08.59.443
 Belem Approach:Belem Approach:119.050:WB::SBWB:APP:::6140:6177:
 Belem ATIS:Belem ATIS:127.600:ABE::SBBE:ATIS:::::
