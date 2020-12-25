@@ -1,2 +1,1 @@
-# atc-voice-pof
-Officia ATC positions callsigns and frequencies. 📡
+neste Branch, encontra-se somente arquivos .SCT dos Sectores
