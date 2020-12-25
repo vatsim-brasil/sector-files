@@ -1,1 +1,1 @@
-neste Branch, encontra-se somente arquivos .SCT dos Sectores
+Neste Branch, encontra-se somente arquivos .SCT dos Sectores
